@@ -2,6 +2,7 @@
 
 #### How to use
 
+-   First, run **npm install**
 -   Open to **index.js** file
 -   Select source directory which you want to choose
 -   Then select the folder destination you want to be the final place to complete all the steps
