@@ -1,0 +1,14 @@
+{
+  "name": "training",
+  "version": "1.0.0",
+  "description": "learn to change filename with fs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
